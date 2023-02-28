@@ -1,7 +1,7 @@
 # MART380FinalProject
 final video game project made for New Media Art class Spring of 2021
 
-THIS REPO DOES NOT CONTAIN ALL THE FILES NEEDE FOR THE PROJECT TO RUN IN UNITY
+THIS REPO DOES NOT CONTAIN ALL THE FILES NEEDED FOR THE PROJECT TO RUN IN UNITY
 
 The project file was too large to upload to this repo so I have included the, what I consider to be, essential files pertaining to the project.
 
